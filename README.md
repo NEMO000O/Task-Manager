@@ -7,8 +7,12 @@
 Для использования программы создайте среду venv. Для этого воспользуйтесь следующими командами:
 1. *python -m venv venv*
 2. *venv\Scripts\activate*
-3. *python -m pip install git+https://github.com/NEMO000O/Task-Manager*
+
+Далее установить программу:
+
+*python -m pip install git+https://github.com/NEMO000O/Task-Manager*
 
 ### Команды программы
 
-**task_m "Задача, которую хотите добавить в список"**
+**task_m "Название файла, в который хотите записать задачу" (Без ковычек)**  
+Далее пишете задачу и жмёте Enter
